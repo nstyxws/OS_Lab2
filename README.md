@@ -34,3 +34,5 @@ ___
 * **Multitasking** *(Багатозадачність)* — процес швидкого перемикання ядра між різними процесами, що створює ілюзію їх одночасної роботи.  
 * **API (Application Programming Interface)** *(Інтерфейс програмування додатків)* — набір правил, за якими додатки звертаються до ядра за ресурсами, не переймаючись технічними деталями обладнання.
 
+<img width="1484" height="1029" alt="зображення" src="https://github.com/user-attachments/assets/346575cf-3c48-4dab-a7de-62ec9dd8dae8" />
+<img width="427" height="493" alt="зображення" src="https://github.com/user-attachments/assets/6de0f0f5-8277-48a2-a8c3-d621026d3a37" />
